@@ -1,0 +1,2 @@
+sudo touch /etc/fail2ban/blacklist.txt
+sudo chmod 600 /etc/fail2ban/blacklist.txt
