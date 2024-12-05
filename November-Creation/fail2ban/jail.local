@@ -1,5 +1,0 @@
-[blacklist]
-enabled = true
-filter = blacklist
-action = %(action_)s
-logpath = /etc/fail2ban/blacklist.txt
